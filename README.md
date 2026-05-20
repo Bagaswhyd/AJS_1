@@ -1,5 +1,7 @@
 Deskripsi Proyek Mata Kuliah Analisis Jejaring Sosial 
+
 Topik: Analisis Jejaring Sosial untuk mengidentifikasi pola, influential node, komunitas, dan penyebaran informasi 
+
 Tujuan: 
 1.	Mengaplikasikan konsep dan metode Social Network Analysis (SNA) untuk menganalisis hubungan antar-entitas dalam dataset. 
 2.	Menggunakan metode analisis jejaring untuk: 
